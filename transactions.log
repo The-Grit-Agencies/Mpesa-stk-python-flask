@@ -1,0 +1,11 @@
+{"requestId": "2654-4b64-97ff-b827b542881d241475", "errorCode": "400.002.02", "errorMessage": "Bad Request - Invalid PhoneNumber"}
+{"requestId": "2654-4b64-97ff-b827b542881d241485", "errorCode": "400.002.02", "errorMessage": "Bad Request - Invalid CallBackURL"}
+{"requestId": "f1e2-4b95-a71d-b30d3cdbb7a7983786", "errorCode": "400.002.02", "errorMessage": "Bad Request - Invalid CallBackURL"}
+{"requestId": "6e86-45dd-91ac-fd5d4178ab523845893", "errorCode": "500.001.1001", "errorMessage": "Wrong credentials"}
+{"requestId": "6e86-45dd-91ac-fd5d4178ab523845896", "errorCode": "500.001.1001", "errorMessage": "Wrong credentials"}
+{"MerchantRequestID": "2654-4b64-97ff-b827b542881d241591", "CheckoutRequestID": "ws_CO_24072024181447009743269238", "ResponseCode": "0", "ResponseDescription": "Success. Request accepted for processing", "CustomerMessage": "Success. Request accepted for processing"}
+{"MerchantRequestID": "2654-4b64-97ff-b827b542881d241611", "CheckoutRequestID": "ws_CO_24072024181528899743269238", "ResponseCode": "0", "ResponseDescription": "Success. Request accepted for processing", "CustomerMessage": "Success. Request accepted for processing"}
+{"MerchantRequestID": "7071-4170-a0e4-8345632bad441693639", "CheckoutRequestID": "ws_CO_24072024181650818743269238", "ResponseCode": "0", "ResponseDescription": "Success. Request accepted for processing", "CustomerMessage": "Success. Request accepted for processing"}
+{"requestId": "1c5b-4ba8-815c-ac45c57a3db01697392", "errorCode": "500.001.1001", "errorMessage": "Wrong credentials"}
+{"MerchantRequestID": "7071-4170-a0e4-8345632bad441693701", "CheckoutRequestID": "ws_CO_24072024182431734743269238", "ResponseCode": "0", "ResponseDescription": "Success. Request accepted for processing", "CustomerMessage": "Success. Request accepted for processing"}
+{"MerchantRequestID": "2654-4b64-97ff-b827b542881d241705", "CheckoutRequestID": "ws_CO_24072024182223609743269238", "ResponseCode": "0", "ResponseDescription": "Success. Request accepted for processing", "CustomerMessage": "Success. Request accepted for processing"}
